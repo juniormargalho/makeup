@@ -7,7 +7,8 @@ Projeto de demonstração de habilidades
 - Favoritos
 - Filtros de listagem
 - Testes unitários
-- Consumo de API()
+- Consumo de API(https://makeup-api.herokuapp.com/)
+- Schemes(DEVELOPMENT, HOMOLOG e PRODUCTION)
 
 ## 🔍 Pré-requisitos
 Após realizar o clone do repositório, necessita executar pod install
